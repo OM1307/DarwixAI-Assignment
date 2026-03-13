@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+sentence-transformers
+chromadb
+scikit-learn
+streamlit
+transformers
+torch
+pydantic
+requests
